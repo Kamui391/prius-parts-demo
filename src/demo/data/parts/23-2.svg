@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Rear shock absorber">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#3b82f6"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="100" cy="80" r="160" fill="#fff" opacity="0.07"/>
+  <g fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" opacity="0.92"><path d="M400 140v40M400 360v40M360 180h80M360 360h80M370 200l60 20-60 20 60 20-60 20 60 20-60 20"/></g>
+  <text x="40" y="530" font-family="system-ui, sans-serif" font-size="34" font-weight="700" fill="#fff">Rear shock absorber</text>
+  <text x="40" y="568" font-family="system-ui, sans-serif" font-size="22" fill="#fff" opacity="0.8">SU-002 · 2/2</text>
+</svg>

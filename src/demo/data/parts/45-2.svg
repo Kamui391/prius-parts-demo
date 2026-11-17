@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Thermostat">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="#0c4a6e"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="100" cy="80" r="160" fill="#fff" opacity="0.07"/>
+  <g fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" opacity="0.92"><path d="M380 160v170a50 50 0 1 0 40 0V160a20 20 0 0 0-40 0z"/><path d="M450 200h40M450 240h40M450 280h40"/></g>
+  <text x="40" y="530" font-family="system-ui, sans-serif" font-size="34" font-weight="700" fill="#fff">Thermostat</text>
+  <text x="40" y="568" font-family="system-ui, sans-serif" font-size="22" fill="#fff" opacity="0.8">CO-003 · 2/2</text>
+</svg>

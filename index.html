@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="mn">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Toyota Prius-ийн сэлбэгийн онлайн дэлгүүр, үнэ харьцуулалт, хайбрид засвар үйлчилгээний цаг захиалга" />
+    <meta name="theme-color" content="#0e7c86" />
+    <link rel="icon" href="/logo.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&subset=cyrillic&display=swap" rel="stylesheet" />
+    <script>
+      // Харагдацыг React ачаалагдахаас өмнө тохируулж анивчихаас сэргийлнэ
+      try {
+        var saved = localStorage.getItem("pp_theme");
+        if (saved) document.documentElement.dataset.theme = saved;
+      } catch (e) {}
+    </script>
+    <title>Prius Parts — Сэлбэг · Засвар · Үйлчилгээ</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
